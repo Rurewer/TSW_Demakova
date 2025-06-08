@@ -70,7 +70,6 @@ public class WildberriesTests {
                 "Футер не отображается");
     }
 
-    //без этого теста не работает предыдущий
 
     @Test
     public void testFooterLinksAreValid() {
